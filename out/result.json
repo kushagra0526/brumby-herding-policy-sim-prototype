@@ -1,0 +1,48 @@
+{
+ "dev": {
+  "close tail-chase": {
+   "reached_target_pct": 17,
+   "median_steps_when_done": 269,
+   "mean_strays": 33.5,
+   "mean_drone_path_m": 547,
+   "mean_share_of_animals_pressured": 0.43
+  },
+  "drive only": {
+   "reached_target_pct": 92,
+   "median_steps_when_done": 249,
+   "mean_strays": 5.9,
+   "mean_drone_path_m": 256,
+   "mean_share_of_animals_pressured": 0.85
+  },
+  "collect then drive": {
+   "reached_target_pct": 100,
+   "median_steps_when_done": 485,
+   "mean_strays": 0.0,
+   "mean_drone_path_m": 659,
+   "mean_share_of_animals_pressured": 0.83
+  }
+ },
+ "held_out": {
+  "close tail-chase": {
+   "reached_target_pct": 0,
+   "median_steps_when_done": null,
+   "mean_strays": 66.5,
+   "mean_drone_path_m": 2179,
+   "mean_share_of_animals_pressured": 0.09
+  },
+  "drive only": {
+   "reached_target_pct": 33,
+   "median_steps_when_done": 273,
+   "mean_strays": 50.2,
+   "mean_drone_path_m": 1547,
+   "mean_share_of_animals_pressured": 0.34
+  },
+  "collect then drive": {
+   "reached_target_pct": 8,
+   "median_steps_when_done": 612,
+   "mean_strays": 73.7,
+   "mean_drone_path_m": 3521,
+   "mean_share_of_animals_pressured": 0.83
+  }
+ }
+}

@@ -1,0 +1,7 @@
+drone speed | policy | reached target % | mean strays | mean path (m)   [N=80, wind 0.4, 8 herds, T=3000]
+1.2 | drive only | 0 | 71.6 | 2179
+1.2 | collect then drive | 0 | 68.1 | 3782
+1.5 | drive only | 25 | 61.0 | 1706
+1.5 | collect then drive | 0 | 80.0 | 4549
+2.0 | drive only | 12 | 67.6 | 1951
+2.0 | collect then drive | 0 | 75.2 | 5662
